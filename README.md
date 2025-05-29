@@ -21,8 +21,8 @@ A web application for discovering, organizing, and tagging photos using the Unsp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/picstoria.git
-   cd picstoria
+   git clone https://github.com/Mayank17j/Photo-organizer.git
+   cd Photo-organizer
    ```
 
 2. Install dependencies:
